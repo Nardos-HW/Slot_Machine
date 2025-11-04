@@ -6,10 +6,15 @@ Players can deposit money, choose the number of lines to bet on, place wagers, a
 🧩 Features
 
 -> 💰 Deposit and track your balance
+
 -> 🎯 Choose how many lines to bet on (1–3)
+
 -> 💵 Place custom bets within set limits
+
 -> 🎡 Randomized slot machine spins
+
 -> 🏆 Calculates winnings based on matching symbols and payout values
+
 -> 🔁 Continue playing until you choose to quit
 
 🖥️ Gameplay Overview
